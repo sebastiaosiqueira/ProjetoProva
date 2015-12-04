@@ -1,0 +1,5 @@
+D:\Projetos\Transportadora\Transportes.Service\bin\Debug\Transportes.Service.dll
+D:\Projetos\Transportadora\Transportes.Service\bin\Debug\Transportes.Service.pdb
+D:\Projetos\Transportadora\Transportes.Service\obj\Debug\Transportes.Service.csprojResolveAssemblyReference.cache
+D:\Projetos\Transportadora\Transportes.Service\obj\Debug\Transportes.Service.dll
+D:\Projetos\Transportadora\Transportes.Service\obj\Debug\Transportes.Service.pdb

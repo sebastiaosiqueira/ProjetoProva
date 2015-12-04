@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Transportes.MVC.ViewModels.UsuarioViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    
+    if (@ViewBag.Mensagem != null) { 
+
+<div class="alert alert-dismissible alert-success">
+    <button type="button" class="close" data-dismiss="alert">X</button>
+        <h4>Sucesso</h4>
+    <p>@ViewBag.Mensagem</p>
+</div>
+    }
+    }
+<h2>Index</h2>
+
+<p>
+
+    <a class="btn btn-default" @Html.ActionLink("Criar", "Create", "Usuario")</a>
+</p>
+<table class="table table-striped table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.UF)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cidade)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UF)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cidade)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.UsuarioId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.UsuarioId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.UsuarioId })
+            </td>
+        </tr>
+    }
+
+</table>

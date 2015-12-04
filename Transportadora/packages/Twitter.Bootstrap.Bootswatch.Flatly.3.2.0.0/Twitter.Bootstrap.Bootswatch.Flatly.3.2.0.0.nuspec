@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Twitter.Bootstrap.Bootswatch.Flatly</id>
+    <version>3.2.0.0</version>
+    <title>Twitter Bootstrap Bootswatch Themes - Flatly (only CSS)</title>
+    <authors>Pinal Bhatt (Theme created by Thomas Park[hello@thomaspark.me.])</authors>
+    <owners>Pinal Bhatt (Theme created by Thomas Park[hello@thomaspark.me.])</owners>
+    <projectUrl>http://bootswatch.com/</projectUrl>
+    <iconUrl>http://blog.getbootstrap.com/public/ico/apple-touch-icon-144-precomposed.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Free Flatly theme(only CSS) from bootswatch.com for Twitter Bootstrap -Sleek, intuitive, and powerful mobile-first front-end framework for faster and easier web development.  [Based on Twitter Bootstrap Version 3.2.0]. For javascript font files use official Bootstrap package.</description>
+    <summary>Twitter Bootstrap Bootswatch Themes. Theme created by Thomas Park[hello@thomaspark.me.]</summary>
+    <releaseNotes>Based on Twitter Bootstrap Version 3.2.0. Only CSS</releaseNotes>
+    <tags>twitter css css3 html5 less jquery bootstrap responsive bootswatch</tags>
+  </metadata>
+</package>

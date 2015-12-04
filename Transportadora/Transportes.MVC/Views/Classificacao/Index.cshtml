@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Transportes.MVC.ViewModels.ClassificacaoViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+      <a class="btn btn-default" @Html.ActionLink("Criar", "Create","Classificacao")></a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model=> model.Transportadora.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Usuario.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.preco)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Transportadora.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Usuario.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.preco)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ClassificacaoId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ClassificacaoId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ClassificacaoId })
+        </td>
+    </tr>
+}
+
+</table>

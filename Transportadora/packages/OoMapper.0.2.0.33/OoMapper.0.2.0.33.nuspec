@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>OoMapper</id>
+    <version>0.2.0.33</version>
+    <title>OoMapper</title>
+    <authors>hazzik</authors>
+    <owners>hazzik</owners>
+    <projectUrl>http://github.com/hazzik/OoMapper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>OoMapper is object-object mapper for .NET</description>
+    <summary>OoMapper is object-object mapper for .NET</summary>
+    <language />
+    <tags>OoMapper AutoMapper .NET</tags>
+  </metadata>
+</package>

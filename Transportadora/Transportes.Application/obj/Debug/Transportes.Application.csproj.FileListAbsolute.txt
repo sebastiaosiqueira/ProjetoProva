@@ -1,0 +1,11 @@
+D:\Projetos\Transportadora\Transportes.Application\bin\Debug\Transportes.Application.dll
+D:\Projetos\Transportadora\Transportes.Application\bin\Debug\Transportes.Application.pdb
+D:\Projetos\Transportadora\Transportes.Application\bin\Debug\Transporte.Infra.Data.dll
+D:\Projetos\Transportadora\Transportes.Application\bin\Debug\Transportes.Domain.dll
+D:\Projetos\Transportadora\Transportes.Application\bin\Debug\EntityFramework.dll
+D:\Projetos\Transportadora\Transportes.Application\bin\Debug\Transporte.Infra.Data.pdb
+D:\Projetos\Transportadora\Transportes.Application\bin\Debug\Transportes.Domain.pdb
+D:\Projetos\Transportadora\Transportes.Application\bin\Debug\EntityFramework.xml
+D:\Projetos\Transportadora\Transportes.Application\obj\Debug\Transportes.Application.csprojResolveAssemblyReference.cache
+D:\Projetos\Transportadora\Transportes.Application\obj\Debug\Transportes.Application.dll
+D:\Projetos\Transportadora\Transportes.Application\obj\Debug\Transportes.Application.pdb

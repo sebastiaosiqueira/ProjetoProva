@@ -1,0 +1,13 @@
+C:\Users\TIAO-PC\Documents\Visual Studio 2013\Projects\Transportadora\Transporte.Infra.Data\obj\Debug\Transportes.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Projetos\Transportadora\Transporte.Infra.Data\bin\Debug\Transporte.Infra.Data.dll.config
+D:\Projetos\Transportadora\Transporte.Infra.Data\bin\Debug\Transporte.Infra.Data.dll
+D:\Projetos\Transportadora\Transporte.Infra.Data\bin\Debug\Transporte.Infra.Data.pdb
+D:\Projetos\Transportadora\Transporte.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Projetos\Transportadora\Transporte.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\Transportadora\Transporte.Infra.Data\bin\Debug\Transportes.Domain.dll
+D:\Projetos\Transportadora\Transporte.Infra.Data\bin\Debug\Transportes.Domain.pdb
+D:\Projetos\Transportadora\Transporte.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Projetos\Transportadora\Transporte.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\Transportadora\Transporte.Infra.Data\obj\Debug\Transportes.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Projetos\Transportadora\Transporte.Infra.Data\obj\Debug\Transporte.Infra.Data.dll
+D:\Projetos\Transportadora\Transporte.Infra.Data\obj\Debug\Transporte.Infra.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\TIAO-PC\Documents\Visual Studio 2013\Projects\Transportadora\Transportes.Domain\bin\Debug\Transportes.Domain.dll
+C:\Users\TIAO-PC\Documents\Visual Studio 2013\Projects\Transportadora\Transportes.Domain\bin\Debug\Transportes.Domain.pdb
+C:\Users\TIAO-PC\Documents\Visual Studio 2013\Projects\Transportadora\Transportes.Domain\obj\Debug\Transportes.Domain.dll
+C:\Users\TIAO-PC\Documents\Visual Studio 2013\Projects\Transportadora\Transportes.Domain\obj\Debug\Transportes.Domain.pdb
+D:\Projetos\Transportadora\Transportes.Domain\bin\Debug\Transportes.Domain.dll
+D:\Projetos\Transportadora\Transportes.Domain\bin\Debug\Transportes.Domain.pdb
+D:\Projetos\Transportadora\Transportes.Domain\obj\Debug\Transportes.Domain.csprojResolveAssemblyReference.cache
+D:\Projetos\Transportadora\Transportes.Domain\obj\Debug\Transportes.Domain.dll
+D:\Projetos\Transportadora\Transportes.Domain\obj\Debug\Transportes.Domain.pdb
